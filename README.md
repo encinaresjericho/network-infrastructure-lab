@@ -203,9 +203,3 @@ network-infrastructure-troubleshooting-lab/
 - Cisco, [Configure Inter-VLAN Routing with the Use of an External Router](https://www.cisco.com/c/en/us/support/docs/lan-switching/inter-vlan-routing/14976-50.html)
 - Cisco, [NAT Configuration Guide](https://www.cisco.com/c/en/us/td/docs/switches/lan/c9000/lyr3-fwd/nat/nat-configuration-guide/nat.html)
 - Cisco Networking Academy, [Packet Tracer](https://www.netacad.com/courses/packet-tracer)
-
-## Author
-
-**Jericho Encinares**
-
-- GitHub: [@encinaresjericho](https://github.com/encinaresjericho)
